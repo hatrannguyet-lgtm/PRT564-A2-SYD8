@@ -1,3 +1,10 @@
+The repository contains 5 files:
+1. README.txt
+2. QAW2223DC (2).xlsx (2022 data) 
+3. Qualifications and work 2018-19 Data Tables (1).xlsx (2018 data)
+4. Preprocessing and visualisation.py
+5. abs-qualification-and-work.ipynb
+
 Income Prediction with Ridge Regularization
 This project utilizes Ridge Regularized Linear Regression to predict weekly income based on an individual’s qualifications. 
 The primary goal is to model how educational qualifications impact income, helping policymakers and organizations make informed decisions about workforce planning and educational investment.

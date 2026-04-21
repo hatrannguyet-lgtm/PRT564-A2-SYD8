@@ -1,5 +1,6 @@
 Income Prediction with Ridge Regularization
-This project utilizes Ridge Regularized Linear Regression to predict weekly income based on an individual’s qualifications. The primary goal is to model how educational qualifications impact income, helping policymakers and organizations make informed decisions about workforce planning and educational investment.
+This project utilizes Ridge Regularized Linear Regression to predict weekly income based on an individual’s qualifications. 
+The primary goal is to model how educational qualifications impact income, helping policymakers and organizations make informed decisions about workforce planning and educational investment.
 Objective
 The objective of this analysis is to develop a predictive model that estimates an individual’s income using the following features:
 Age

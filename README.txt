@@ -34,7 +34,6 @@ Visualizations
 Bar Plot: Comparison of RMSE, MAE, and R² for different models.
 Box Plot & Violin Plot: Distribution of RMSE for models to compare stability.
 Heatmap: Visualization of 95% confidence intervals for Bootstrap RMSE.
-Conclusion
 The Ridge regression model effectively captures the relationship between education and income.
 Further model tuning and feature engineering may improve prediction precision.
 License

@@ -1,4 +1,0 @@
-{
-    "python.REPL.enableREPLSmartSend": true,
-    "python-envs.defaultEnvManager": "ms-python.python:system"
-}

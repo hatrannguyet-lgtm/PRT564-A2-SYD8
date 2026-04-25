@@ -3,7 +3,7 @@ The repository contains 5 files:
 2. QAW2223DC (2).xlsx (2022 data) 
 3. Qualifications and work 2018-19 Data Tables (1).xlsx (2018 data)
 4. Minh Tran Part 1 Assignment 2.ipynb
-5.
+5. part2EDA.ipynd 
 6. abs-qualification-and-work part 3-4 Muhibul Azim.ipynb
 
 
